@@ -1,110 +1,42 @@
-## ◇────── DRAGON VPS MANAGER ───────◇
+# Salam 👋, Men @[hackedcdn]
 
-ㅤ
-<p align="left">
-  <a href="" rel="noopener">
- <img width=550px height=550px src="https://github.com/januda-ui/januda-ui/blob/main/icons/photo_2021-12-01_07-36-12.jpg?raw=true?raw=true" alt="logo"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=true&width=435&lines=Programmirlemäge+höwesli;Web+we+mobile+programmirleme;Täze+tehnologiýalary+öwrenmek)](https://git.io/typing-svg)
 
-##
-___REFERRAL LINK___
+## 💫 Men barada
+- 🔭 Häzirki wagtda şu taslamada işleýärin: **[Taslama ady]**
+- 🌱 Häzirki wagtda **[Tehnologiýa ady]** öwrenýärin
+- 👨‍💻 Ähli taslamalarymy [bu ýerde](https://github.com/sizinkullaniciadi) görüp bilersiňiz
+- 💬 **[Bilýän zatlaryngyz]** hakda menden sorap bilersiňiz
+- 📫 Habarlaşmak üçin: **sizin@email.com**
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=0c8d9b763684&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+## 🌐 Baglanyşyk
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sizinlinkedin) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sizintwitter) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sizininstagram) 
 
-## ㅤ
+## 🏆 GitHub üstünlikleri
+![](https://github-profile-trophy.vercel.app/?username=sizinkullaniciadi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-___Update System Packages and Install SCRIPT___
+## 💻 Tehnologiýalar
+| **Programmirleme Dilleri** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
+| **Maglumat Bazasy** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Gurallar** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
-```
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/januda-ui/DRAGON-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
+## 📊 GitHub Statistika
+![](https://github-readme-stats.vercel.app/api?username=sizinkullaniciadi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sizinkullaniciadi&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sizinkullaniciadi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-```
+### ✍️ Gündelik Alynty
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## ㅤ
+---
+![](https://visitcount.itsvg.in/api?id=sizinkullaniciadi&icon=0&color=0)
 
-___Tutorial___
-
-<P>
-<div class="div1">
-<span><a href="https://player.vimeo.com/video/652289751"><img src="https://user-images.githubusercontent.com/83800532/144345002-c3ec5251-f723-4a81-bcaa-ad4579562218.png" alt=""width="50"height="50"/></a></span>
-<span><a href="https://t.me/dragon_vps_manager/18"><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="50"height="50"/></a></span>
-</div>
-</P>
-  
-
-## ㅤ
-
-___Screenshots___
-
-<details>
-  <summary><p><b>Click To View [Terminal] </b><div class="div0"> <span><a href=""><img src="https://user-images.githubusercontent.com/83800532/143572065-ca450924-e72b-4041-ab31-3798618973f4.png" alt=""width="30"height="30"/><span><a href=""><img src="https://user-images.githubusercontent.com/83800532/144479843-ab04c6b5-9514-4863-b714-a1b391f42b27.png" alt=""width="30"height="30"/></a></span></p></summary></div>
-<br/>
-
-<p><span><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/dragon_ss_1.png" alt=""/></span></p>
-<p><span><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/dragon_ss2.png" alt=""/></span></p>
-<p><span><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/dragon_ss_3.png" alt=""/></span></p>
-<p><span><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/dragon_ss_4.png" alt=""/></span></p>
-<p><span><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/dragon_vps_5.png" alt=""/></span></p>
-<p><span><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/dragon_ss_6.png" alt=""/></span></p>
-</details>
-
-
-<details>
-  <summary><p><b>Click To View [Telegram Bot]</b><div class="div0"> <span><a href=""><img src="https://user-images.githubusercontent.com/83800532/143572065-ca450924-e72b-4041-ab31-3798618973f4.png" alt=""width="30"height="30"/><span><a href=""><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="30"height="30"/></a></span></p></summary></div>
-<br/>
-
-<p><span><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/ss4.png" alt=""/></span></p>
-<p><span><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/ss3.png" alt=""/></span></p>
-<p><span><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/ss1.png" alt=""/></span></p>
-<p><span><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/ss2.png" alt=""/></span></p>
-<p><span><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/Screenshot%20(41).png" alt=""/></span></p>
-</details>
-
-
-## ㅤ
-
-___Based on___
-
- <p>    
-<div class="div1">
-  <span><a href=""><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/icons8-linux.gif?raw=true" alt=""width="50"height="50"/></a></span>
-  <span><a href=""><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/icons8-internet.gif?raw=true" alt=""width="50"height="50"/></a></span>
-  <span><a href=""><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/ubuntu.gif?raw=true" alt=""width="50"height="50"/></a></span>
-  <span><a href=""><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/icons8-ssh-48.png?raw=true" alt=""width="50"height="50"/></a></span>
-  <span><a href=""><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/terminal2.gif?raw=true" alt=""width="50"height="50"/></a></span>
-  <span><a href="https://github.com/NT-GIT-HUB/VPS-MANAGER-1.0"><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/business-3d-browser-1.png?raw=true" alt=""width="50"height="50"/></a></span>
-  <span><a href=""><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/clip-internet-security.png?raw=true" alt=""width="50"height="50"/></a></span>
-</div>
- </p>
- 
- ## ㅤ
- 
-___Credits___
-
-<p>see on <a href="https://github.com/januda-ui/DRAGON-VPS-MANAGER/wiki/Credits" target="_blank" rel="noopener">wiki</a></p>
-<p>see on <a href="https://telegra.ph/DRAGON-VPS-MANAGER-11-30" target="_blank" rel="noopener">Telegra.ph</a>&nbsp;</p>
-  <P><b><i> 💐💐 To everyone who gave me advice and ideas.💐💐 </i></b></p>
-
-## ㅤ
-
-___Follow Us!___
-
- <p>    
-<div class="div2">
- <span><a href="https://t.me/s/dragon_vps_manager"><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="50"height="50"/></a></span>
- </div>
- </p>
- 
-## ㅤ
- 
-___⚠️ Announcement ⚠️___
-
-<p><i>This script is not our own <a href="https://t.me/s/singledevelopers/">@SingleDevelopers</a> creation and we will be working on providing our own script soon.<i></p>
-
- 
-##  ㅤ
-
-___Licence___
-
-[![License](https://www.gnu.org/graphics/gplv3-127x51.png)](LICENSE)
-
+<!-- GitHub Snake Graph - Ulanmak isleseňiz, GitHub Actions gurmaly -->
+<!--
+![GitHub Snake Light](https://github.com/sizinkullaniciadi/sizinkullaniciadi/blob/output/github-contribution-grid-snake.svg)
+--> 
